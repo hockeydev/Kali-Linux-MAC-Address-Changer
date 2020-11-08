@@ -1,5 +1,7 @@
 # Kali-Linux-MAC-Address-Changer
 
+Simple CLI program to change MAC address. 
+
 Run the program from the command line by inputing the interface and new MAC address 
 
 Example: 
